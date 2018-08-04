@@ -1,0 +1,37 @@
+
+#pagina{
+	padding: 10px 80px; 
+	margin: 100px ; 
+	background: #E0F2F7; 
+	border: solid #2E2E2E; 
+	border-width: 8px 0 2px 0;
+}
+#pagina2{
+
+	margin: 2.5em 0 3em 0; padding-bottom: 1.5em; border-bottom: 1px solid #ccc 
+}
+.derecha { 
+	float: right;
+
+}
+.izquierda{
+	float: left;
+
+}
+.titulo1{
+	float: left;
+}
+.datospersonales{
+	float: left;
+}
+hr {
+	border: 0 ; 
+	border-top: 4px double blue; 
+	width: 90%;
+}
+#centro{
+	    padding: 10px 80px;
+	    center;
+}
+
+
